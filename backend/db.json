@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta a",
+      "price": "1.322"
+    },
+    {
+      "id": 2,
+      "name": "Estojo ",
+      "price": 32
+    },
+    {
+      "name": "Chaves Yale",
+      "price": "0.60",
+      "id": 3
+    },
+    {
+      "name": "222",
+      "price": "22",
+      "id": 4
+    },
+    {
+      "name": "dc",
+      "price": "ew",
+      "id": 5
+    }
+  ]
+}
